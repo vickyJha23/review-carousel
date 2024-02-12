@@ -1,4 +1,4 @@
-console.log("Har har mahadev");
+// console.log("Har har mahadev");
 const reviews = [
     {
         id: 1,
